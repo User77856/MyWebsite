@@ -1,0 +1,14 @@
+.antman{
+    font-size: 3.5px;
+    font-weight: lighter;
+}
+
+.main-body{
+    max-height: 100vh;
+    transition: height 1s;
+}
+
+.furtherInfo{
+    max-height: 100vh;
+    transition: height 1s;
+}

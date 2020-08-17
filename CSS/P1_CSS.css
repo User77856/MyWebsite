@@ -174,7 +174,7 @@ main{
 .main-body{
     display: flex;
     height: 90vh;
-    background-image: url("chicago-690364_1920.jpg");
+    background-image: url("../Resources/chicago-690364_1920.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     align-items: center;
